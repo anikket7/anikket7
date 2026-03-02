@@ -1,30 +1,119 @@
-<h1 align="center">Hi 👋, I'm Aniket</h1>
-<h3 align="center">C++ Developer | Data Structures & Algorithms | Backend-Focused</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anikket7&label=Profile%20views&color=0e75b6&style=flat" alt="anikket7" /> </p>
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Anikket&fontSize=65&fontColor=fff&fontAlignY=38&desc=CS%20Student%20%7C%20MERN%20Dev%20%7C%20DSA%20in%20C%2B%2B&descAlignY=58&descAlign=50&animation=fadeIn)
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=550&lines=Building+full-stack+apps+with+MERN;Problem+solving+with+C%2B%2B+%26+DSA;Always+learning%2C+always+shipping;Open+to+collaborations+and+internships)](https://git.io/typing-svg)
 
-- 🌱 I’m currently learning **Advanced Data Structures (Trees, Graphs, Tries) Backend fundamentals Time & Space Optimization Techniques**
+</div>
 
-- 👨‍💻 All of my projects are available at [https://github.com/anikket7](https://github.com/anikket7)
+---
 
-- 💬 Ask me about **C++ STL Queue & Stack implementations Algorithm optimization**
+## 🧑‍💻 About Me
 
-- 📫 How to reach me **aniket70045@gmail.com**
+- 🎓 **CS Student** diving deep into both theory and real-world engineering
+- 💻 **MERN Stack Developer** — building full-stack web apps from scratch
+- ⚡ **DSA Practitioner** — C++ is my weapon of choice for problem solving
+- 🔨 I love building things, breaking them, and building them better
+- 📬 Always open to collaboration and cool project ideas
 
-- ⚡ Fun fact **I prefer solving problems with logic before touching code.**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/aniket712" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aniket712" height="30" width="40" /></a>
-<a href="https://instagram.com/anikket_7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anikket_7/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/anikket7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anikket7/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/anikket7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="anikket7" height="30" width="40" /></a>
-</p>
+## 🛠️ Tech Stack
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<div align="center">
 
+[![My Skills](https://skillicons.dev/icons?i=cpp,js,react,nodejs,express,mongodb,html,css,tailwind,git,github,vscode&theme=dark&perline=6)](https://skillicons.dev)
 
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anikket7&" alt="anikket7" /></p>
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anikket7&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+</div>
+
+<div align="center">
+
+[![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anikket7&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)&nbsp;&nbsp;
+[![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anikket7&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+</div>
+
+<div align="center">
+
+[![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anikket7&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)&nbsp;&nbsp;
+[![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anikket7&theme=tokyonight&utcOffset=5.5)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=anikket7&theme=tokyonight&hide_border=true&background=0d1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA)](https://git.io/streak-stats)
+
+</div>
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=anikket7&bg_color=0d1117&color=A78BFA&line=A78BFA&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy-kannan.vercel.app/?username=anikket7&theme=juicyfresh&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## ⚔️ DSA Journey
+
+<div align="center">
+
+| Topic | Status |
+|-------|--------|
+| 📦 Arrays & Strings | ✅ Done |
+| 🔗 Linked Lists & Trees | ✅ Done |
+| 🕸️ Graphs & BFS/DFS | 🔄 In Progress |
+| 🧠 Dynamic Programming | 🔄 In Progress |
+| 🔁 Recursion & Backtracking | ⏳ Up Next |
+
+**Language:** C++ &nbsp;|&nbsp; **Goal:** Crack top product-based company interviews 🎯
+
+</div>
+
+---
+
+## 📫 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://linkedin.com/in/aniket712)&nbsp;
+[![GitHub](https://skillicons.dev/icons?i=github&theme=dark)](https://github.com/anikket7)&nbsp;
+[![Instagram](https://skillicons.dev/icons?i=instagram&theme=dark)](https://instagram.com/anikket_7)&nbsp;
+[![Gmail](https://skillicons.dev/icons?i=gmail&theme=dark)](mailto:aniket70045@gmail.com)&nbsp;
+[![LeetCode](https://go-skill-icons.vercel.app/api/icons?i=leetcode)](https://leetcode.com/anikket7)&nbsp;
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=anikket7&color=A78BFA&style=for-the-badge&label=PROFILE+VIEWS" />
+
+<br/><br/>
+
+*"Code is like humor. When you have to explain it, it's bad."* — Cory House
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
+
+</div>
