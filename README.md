@@ -1,24 +1,76 @@
 # Hi, I'm Aniket 👋
 
 ## 🚀 About Me
-C++ Developer focused on Data Structures & Algorithms.
-Building backend-oriented system projects.
+I am a C++ developer with a strong focus on Data Structures and Algorithms.  
+I enjoy building system-oriented projects that emphasize clean logic, proper data handling, and efficiency.
+
+My goal is to strengthen core problem-solving skills while developing backend-level thinking through practical implementations.
+
+---
 
 ## 🛠 Tech Stack
-- C++
-- STL
-- Data Structures
+
+### Languages
+- C++ (Primary Language)
+- Basic HTML, CSS (for frontend integration)
+
+### Core Concepts
+- Arrays, Linked List, Stack, Queue
+- Recursion
+- Searching & Sorting Algorithms
+- STL (vector, map, set, queue, priority_queue)
+- Time & Space Complexity Analysis
+
+### Tools
 - Git & GitHub
-- Basic Web Integration
+- VS Code
+- Basic API integration concepts
+
+---
 
 ## 📌 Featured Projects
-- Train Management System (Queue-based seat allocation + PNR logic)
-- Password Strength Checker (Entropy-based scoring)
+
+### 🚆 Train Management System (C++)
+A console-based system that simulates real-world train booking logic.
+
+Key Features:
+- Seat booking and cancellation
+- Automatic PNR generation
+- Waiting list management using Queue
+- Structured passenger data storage using custom structs
+- Clean separation of logic functions
+
+Focus:
+Efficient data organization and queue-based waiting list handling.
+
+---
+
+### 🔐 Password Strength Checker (C++)
+A password analysis tool that evaluates password strength using entropy-based scoring.
+
+Key Features:
+- Dictionary-based weakness detection
+- Entropy calculation for strength measurement
+- Character diversity analysis
+- Structured modular design
+
+Focus:
+Security logic implementation and algorithmic evaluation.
+
+---
 
 ## 📈 Problem Solving
+
 - Active on LeetCode
-- Improving algorithmic thinking daily
+- Practicing DSA consistently
+- Focus on writing optimized solutions
+- Strong emphasis on understanding underlying logic rather than memorizing patterns
+
+---
 
 ## 🎯 Current Focus
-- Advanced DSA
-- Writing structured, efficient C++ code
+
+- Advanced Data Structures (Trees, Graphs, Tries)
+- Backend system design fundamentals
+- Writing clean, modular, and scalable C++ code
+- Improving consistency in problem solving
