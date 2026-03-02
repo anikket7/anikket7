@@ -1,15 +1,26 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm Aniket</h1>
+<h3 align="center">C++ Developer | Data Structures & Algorithms | Backend-Focused</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anikket7&label=Profile%20views&color=0e75b6&style=flat" alt="anikket7" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anikket7" alt="anikket7" /></a> </p>
 
+- 🌱 I’m currently learning **Advanced Data Structures (Trees, Graphs, Tries) Backend fundamentals Time & Space Optimization Techniques**
+
+- 👨‍💻 All of my projects are available at [https://github.com/anikket7](https://github.com/anikket7)
+
+- 💬 Ask me about **C++ STL Queue & Stack implementations Algorithm optimization**
+
+- 📫 How to reach me **aniket70045@gmail.com**
+
+- ⚡ Fun fact **I prefer solving problems with logic before touching code.**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/aniket712" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/aniket712" height="30" width="40" /></a>
-<a href="https://instagram.com/anikket_7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/anikket_7/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/anikket7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/anikket7/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/anikket7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/profile/anikket7" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/aniket712" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aniket712" height="30" width="40" /></a>
+<a href="https://instagram.com/anikket_7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anikket_7/" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/anikket7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anikket7/" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/anikket7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="anikket7" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
