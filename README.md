@@ -58,7 +58,19 @@
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=anikket7&bg_color=0d1117&color=A78BFA&line=A78BFA&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=anikket7&bg_color=0d1117&color=A78BFA&line=A78BFA&point=ffffff&area=true&hide_border=true&custom_title=Anikket%27s%20Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+<div align="center">
+
+### 🗓️ Contribution Calendar
+
+![GitHub Contribution Chart](https://ghchart.rshah.org/7c3aed/anikket7)
+
+<!-- CONTRIBUTION_COUNT_START -->
+![](https://img.shields.io/badge/Contributions%20This%20Year-135-7c3aed?style=for-the-badge&logo=github&logoColor=white)
+<!-- CONTRIBUTION_COUNT_END -->
 
 </div>
 
@@ -71,6 +83,22 @@
 [![trophy](https://github-profile-trophy-kannan.vercel.app/?username=anikket7&theme=juicyfresh&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anikket7/anikket7/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anikket7/anikket7/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/anikket7/anikket7/output/github-snake-dark.svg" />
+</picture>
+
+</div>
+
+> ⚙️ **Setup:** Go to your `anikket7` repo → **Actions** tab → New workflow → paste the snake workflow (see below)
 
 ---
 
@@ -92,15 +120,35 @@
 
 ---
 
+## 📈 LeetCode Stats
+
+<div align="center">
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/anikket7?theme=dark&font=Fira%20Code&ext=heatmap&border=0&radius=20)](https://leetcode.com/anikket7)
+
+</div>
+
+---
+
+## 💬 Dev Quote
+
+<div align="center">
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
+</div>
+
+---
+
 ## 📫 Connect With Me
 
 <div align="center">
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://linkedin.com/in/aniket712)&nbsp;
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://linkedin.com/in/anikket7)&nbsp;
 [![GitHub](https://skillicons.dev/icons?i=github&theme=dark)](https://github.com/anikket7)&nbsp;
-[![Instagram](https://skillicons.dev/icons?i=instagram&theme=dark)](https://instagram.com/anikket_7)&nbsp;
-[![Gmail](https://skillicons.dev/icons?i=gmail&theme=dark)](mailto:aniket70045@gmail.com)&nbsp;
-[![LeetCode](https://go-skill-icons.vercel.app/api/icons?i=leetcode)](https://leetcode.com/anikket7)&nbsp;
+[![Instagram](https://skillicons.dev/icons?i=instagram&theme=dark)](https://instagram.com/anikket7)&nbsp;
+[![Gmail](https://skillicons.dev/icons?i=gmail&theme=dark)](mailto:your@gmail.com)&nbsp;
+[![LeetCode](https://go-skill-icons.vercel.app/api/icons?i=leetcode)](https://leetcode.com/anikket7)
 
 </div>
 
@@ -108,9 +156,9 @@
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=anikket7&color=A78BFA&style=for-the-badge&label=PROFILE+VIEWS" />
+![Profile Views](https://komarev.com/ghpvc/?username=anikket7&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS)
 
-<br/><br/>
+<br/>
 
 *"Code is like humor. When you have to explain it, it's bad."* — Cory House
 
