@@ -1,0 +1,52 @@
+name: Update Contribution Count
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # runs daily at midnight UTC (5:30 AM IST)
+  workflow_dispatch:        # allows manual trigger from Actions tab
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Fetch contribution count via GitHub GraphQL API
+        id: contributions
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          # Get date range: last 365 days
+          FROM=$(date -u -d '365 days ago' +"%Y-%m-%dT%H:%M:%SZ")
+          TO=$(date -u +"%Y-%m-%dT%H:%M:%SZ")
+
+          # Query GitHub GraphQL API for contribution count
+          RESPONSE=$(curl -s -H "Authorization: bearer $GITHUB_TOKEN" \
+            -H "Content-Type: application/json" \
+            -X POST https://api.github.com/graphql \
+            -d "{\"query\": \"{ user(login: \\\"anikket7\\\") { contributionsCollection(from: \\\"$FROM\\\", to: \\\"$TO\\\") { contributionCalendar { totalContributions } } } }\"}")
+
+          COUNT=$(echo $RESPONSE | python3 -c "import sys,json; print(json.load(sys.stdin)['data']['user']['contributionsCollection']['contributionCalendar']['totalContributions'])")
+          echo "count=$COUNT" >> $GITHUB_OUTPUT
+          echo "Contributions in last year: $COUNT"
+
+      - name: Update README badge
+        run: |
+          COUNT=${{ steps.contributions.outputs.count }}
+          # Replace the badge URL with updated count
+          sed -i "s|Contributions%20This%20Year-[0-9]*-7c3aed|Contributions%20This%20Year-${COUNT}-7c3aed|g" README.md
+          echo "Updated badge to $COUNT contributions"
+
+      - name: Commit and push if changed
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git diff --quiet README.md || (
+            git add README.md &&
+            git commit -m "🤖 Auto-update: contribution count → ${{ steps.contributions.outputs.count }}" &&
+            git push
+          )
