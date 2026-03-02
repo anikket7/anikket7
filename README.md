@@ -69,7 +69,7 @@
 ![GitHub Contribution Chart](https://ghchart.rshah.org/7c3aed/anikket7)
 
 <!-- CONTRIBUTION_COUNT_START -->
-![](https://img.shields.io/badge/Contributions%20This%20Year-134-7c3aed?style=for-the-badge&logo=github&logoColor=white)
+![](https://img.shields.io/badge/Contributions%20This%20Year-135-7c3aed?style=for-the-badge&logo=github&logoColor=white)
 <!-- CONTRIBUTION_COUNT_END -->
 
 </div>
@@ -98,7 +98,7 @@
 
 </div>
 
-> ⚙️ **Setup:** Go to your `anikket7` repo → **Actions** tab → New workflow → paste the snake workflow (see below)
+
 
 ---
 
@@ -144,10 +144,10 @@
 
 <div align="center">
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://linkedin.com/in/anikket7)&nbsp;
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://linkedin.com/in/aniket712)&nbsp;
 [![GitHub](https://skillicons.dev/icons?i=github&theme=dark)](https://github.com/anikket7)&nbsp;
-[![Instagram](https://skillicons.dev/icons?i=instagram&theme=dark)](https://instagram.com/anikket7)&nbsp;
-[![Gmail](https://skillicons.dev/icons?i=gmail&theme=dark)](mailto:your@gmail.com)&nbsp;
+[![Instagram](https://skillicons.dev/icons?i=instagram&theme=dark)](https://instagram.com/anikket_7)&nbsp;
+[![Gmail](https://skillicons.dev/icons?i=gmail&theme=dark)](mailto:aniket70045@gmail.com)&nbsp;
 [![LeetCode](https://go-skill-icons.vercel.app/api/icons?i=leetcode)](https://leetcode.com/anikket7)
 
 </div>
