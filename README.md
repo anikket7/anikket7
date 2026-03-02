@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Aniket 👋
 
-<!--
-**anikket7/anikket7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+C++ Developer focused on Data Structures & Algorithms.
+Building backend-oriented system projects.
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
+- C++
+- STL
+- Data Structures
+- Git & GitHub
+- Basic Web Integration
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Featured Projects
+- Train Management System (Queue-based seat allocation + PNR logic)
+- Password Strength Checker (Entropy-based scoring)
+
+## 📈 Problem Solving
+- Active on LeetCode
+- Improving algorithmic thinking daily
+
+## 🎯 Current Focus
+- Advanced DSA
+- Writing structured, efficient C++ code
