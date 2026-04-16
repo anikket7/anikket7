@@ -33,9 +33,14 @@
 
 ## 🌐 Connect With Me
 
+
 <p align="center">
-<a href="https://linkedin.com/in/aniket712"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45"/></a>&nbsp;&nbsp;&nbsp;<a href="https://instagram.com/anikket_7/"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="45"/></a>&nbsp;&nbsp;&nbsp;<a href="https://leetcode.com/anikket7/"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="45"/></a>&nbsp;&nbsp;&nbsp;<a href="mailto:aniket70045@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="45"/></a>
+<a href="https://linkedin.com/in/aniket712" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45"/></a>&nbsp;&nbsp;&nbsp;
+<a href="https://instagram.com/anikket_7/" target="_blank" rel="noopener noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="45"/></a>&nbsp;&nbsp;&nbsp;
+<a href="https://leetcode.com/anikket7/" target="_blank" rel="noopener noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="45"/></a>&nbsp;&nbsp;&nbsp;
+<a href="mailto:aniket70045@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="45"/></a>
 </p>
+
 
 ---
 
